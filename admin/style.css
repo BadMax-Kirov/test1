@@ -1,0 +1,19 @@
+main table td, main table th {
+    border: 1px solid black;
+}
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    text-align: right;
+}
+label{
+    float:left; padding-right:10px;
+}
+.main{
+    float:left;
+}
+.field{
+     text-align:right; line-height:25px;
+}

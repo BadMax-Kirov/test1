@@ -1,0 +1,2 @@
+<title>footer</title>
+﻿footer
