@@ -20,10 +20,10 @@
     }else {
 ?>
         <form action="" method="POST">
-            <label>login</label>
+            <label>login</label><br>
             <input  name="log" id="log" value=""><br>
-            <label>password</label>
-            <input type="password" name="pass" id ="pass" value=""><br>
-            <input type="submit" value="отправить данные">
+            <label>password</label><br>
+            <input type="password" name="pass" id ="pass" value=""><br><br>
+            <input type="submit" value="Войти">
         </form>
 <?php } 
